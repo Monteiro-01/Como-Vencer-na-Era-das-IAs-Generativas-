@@ -1,4 +1,4 @@
-# Como Vencer na Era dasIAs Generativas
+# Como Vencer na Era das IAs Generativas
 # 🚀 Meu Projeto Natty or Not
 
 ## 📖 Descrição
