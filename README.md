@@ -16,15 +16,7 @@ O objetivo é produzir materiais que desafiem a percepção: será que é natura
 - ElevenLabs (voz)
 - RunwayML (vídeo)
 - Outras ferramentas que você escolher
-
-## 🛠️ Estrutura do Projeto
-
-│── exemplos/
- │   ├── E-BOOK.md
- │   ├── PODCAST.md
- │   ├── VIDEO.md
- │── README.md
-
+- 
 ## 📚 Exemplos
 - **E-BOOK:** Criado com IA para explorar narrativas originais.  
 - **PODCAST:** Voz sintética discutindo temas atuais.  
